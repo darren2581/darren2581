@@ -8,6 +8,7 @@ I have taken the Bachelor of Software Engineering Course at Curtin University Ma
 Seeking for better job opportunities
 <br/>
 Fun fact: Entered Focus mode when earphones are worn and the music is played.
+<br/>
 **Hobbies**: Plays different types of instruments.
 
 
