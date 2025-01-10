@@ -8,7 +8,7 @@ I am skilled in the following languages and technologies:
 - Java, C, C++
 - Firebase, MySQL for database management
 - Web technologies: HTML, CSS, and JavaScript, React
-- 
+  
 
 **About Me**
 - 🔍 Seeking: Exciting job opportunities to advance my career in software engineering and development.
