@@ -1,19 +1,23 @@
-## Hi there 👋
-My name is Darren Tan Thong En from a small city in Miri, Sarawak, Malaysia.
-<br/>
-I have taken the Bachelor of Software Engineering Course at Curtin University Malaysia.
-<br/>
-**Programming Language**: Java, C, C++, MySQL, HTML, CSS, JavaScript, Kotlin.
-
-Seeking for better job opportunities
-<br/>
-Fun fact: Entered Focus mode when earphones are worn and the music is played.
-<br/>
-**Hobbies**: Plays different types of instruments.
+Hi there! 👋
+I'm Darren Tan Thong En, a Software Engineer from the beautiful city of Miri, Sarawak, Malaysia.
+I hold a Bachelor's Degree in Software Engineering from Curtin University Malaysia and am passionate about creating impactful software solutions.
 
 
-**Contact Details Below**
-<br/>
-Email: darrentanthongen@gmail.com
-<br/>
-Instagram: darren_2581
+**Programming Proficiencies**
+I am skilled in the following languages and technologies:
+- Java, C, C++
+- Firebase, MySQL for database management
+- Web technologies: HTML, CSS, and JavaScript, React
+- 
+
+**About Me**
+- 🔍 Seeking: Exciting job opportunities to advance my career in software engineering and development.
+- 🎧 Focus Mode: Activated when wearing earphones and listening to music—my productivity skyrockets!
+- 🎶 Hobbies: I enjoy playing a variety of musical instruments.
+
+- 
+Let’s Connect!
+Feel free to reach out to me:
+- 🌐 Website: darren2581.me
+- 📧 Email: darrentanthongen@gmail.com
+- 📸 Instagram: @darren_2581
