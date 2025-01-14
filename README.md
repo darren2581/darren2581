@@ -20,4 +20,4 @@ Let’s Connect!
 Feel free to reach out to me:
 - 🌐 Website: www.darren2581.me
 - 📧 Email: darrentanthongen@gmail.com
-- 📸 Instagram: @darren_2581
+- 📸 Instagram: www.instagram.com/darren_2581
