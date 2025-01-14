@@ -15,7 +15,7 @@ I am skilled in the following languages and technologies:
 - 🎧 Focus Mode: Activated when wearing earphones and listening to music—my productivity skyrockets!
 - 🎶 Hobbies: I enjoy playing a variety of musical instruments.
 
-- 
+  
 Let’s Connect!
 Feel free to reach out to me:
 - 🌐 Website: www.darren2581.me
