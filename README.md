@@ -18,6 +18,6 @@ I am skilled in the following languages and technologies:
   
 Let’s Connect!
 Feel free to reach out to me:
-- 🌐 Website: [www.darren2581.me](https://dev-folio-orcin-chi.vercel.app/)
+- 🌐 Website: https://dev-folio-orcin-chi.vercel.app/
 - 📧 Email: darrentanthongen@gmail.com
 - 📸 Instagram: www.instagram.com/darren_2581
